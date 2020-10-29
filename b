@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 go
 go
 japan
@@ -19,3 +20,9 @@ tt
 re
 m
 n
+||||||| merged common ancestors
+de
+=======
+de
+dr
+>>>>>>> 8
